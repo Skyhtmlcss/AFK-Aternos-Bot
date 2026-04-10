@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chiecxechogas.aternos.me:",
+    "ip": "chiecxechogas.aternos.me",
     "port": 46081,
     "version": "",
     "try-creative": false
